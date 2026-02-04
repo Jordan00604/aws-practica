@@ -1,0 +1,7 @@
+spring:
+application:
+  name: aws-practica
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui-custom.html
